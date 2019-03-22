@@ -1,2 +1,2 @@
 # Perfectron
-Perfect Asset on Tron Netwokr
+Perfect Asset on Tron Network
